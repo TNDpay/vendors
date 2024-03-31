@@ -1,12 +1,16 @@
 [
   {
     "name": "Beer Shop",
-    "latitude": 40.36202963248978,
-    "longitude": 0.399274286086238
+    "latitude": 39.46945638253371,
+    "longitude": -0.3484773829618307,
+    "category":"shop",
+    "webpage":"example.com"
   },
   {
     "name": "Beach Club",
-    "latitude": 40.36532108930491,
-    "longitude": 0.4035123675512496
+    "latitude": 39.479791888096564,
+    "longitude": -0.3243160443655453,
+    "category": "club",
+    "webpage": "example.com"
   },
 ]
