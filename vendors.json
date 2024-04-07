@@ -13,4 +13,35 @@
     "category": "club",
     "webpage": "example.com"
   },
+  {
+    "name": "Local Market",
+    "latitude": 39.47729319995047,
+    "longitude": -0.3502035060849226,
+    "category": "shop",
+    "webpage": "example.com"
+  },
+  
+  {
+    "name": "Sakura Sushi Haven",
+    "latitude": 39.46745427541122, 
+    "longitude": -0.3474569239875077,
+    "category": "club",
+    "webpage": "example.com"
+  },
+  
+  {
+    "name": "TACO Fiesta Mexican Grill",
+    "latitude": 39.470485607533035, 
+    "longitude": -0.3290247831931373,
+    "category": "club",
+    "webpage": "example.com"
+  },
+  
+  {
+    "name": "Mert's Coffe",
+    "latitude": 39.47118130446947, 
+    "longitude": -0.32511948677337543,
+    "category": "club",
+    "webpage": "example.com"
+  },
 ]
