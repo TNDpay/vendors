@@ -1,12 +1,19 @@
-## Privacy Policy
+# Privacy Policy
 
 Your privacy is important to us. This privacy policy explains how we handle user information.
 
-### Information Collection
+## Information Collection
 
-We do not collect or store any personal information from users of our application.
+We collect certain non-personally identifiable information using Firebase Analytics to help us improve our application and understand how it is being used. This may include:
 
-### User-Submitted Merchant Information
+- Usage statistics (e.g., app opens, feature usage)
+- Device information (e.g., model, operating system version)
+- General location data (country level)
+- Crash reports
+
+We do not collect or store any personal information that can directly identify individual users.
+
+## User-Submitted Merchant Information
 
 Our application allows users to voluntarily submit information about merchant locations. This information is provided willingly and does not include personal data. By submitting this information, users acknowledge that:
 
@@ -15,16 +22,26 @@ Our application allows users to voluntarily submit information about merchant lo
 - We are not responsible for the content of the submitted information.
 - This submitted information is not considered personal data and is not subject to the same protections as personal information.
 
-### Information Usage
+## Information Usage
 
-Since we do not collect personal information, there are no personal data to use or share with third parties. The merchant information voluntarily submitted by users is used solely for the purpose of displaying merchant locations within the application.
+The analytics data we collect is used solely for the purpose of improving our application and understanding user behavior. This data is not shared with third parties except as necessary to provide analytics services through Firebase.
 
-### Changes to the Privacy Policy
+The merchant information voluntarily submitted by users is used solely for the purpose of displaying merchant locations within the application.
+
+## Data Storage and Security
+
+Analytics data is stored securely on Firebase servers in accordance with Google's data protection policies. We do not have direct access to individual user data.
+
+## User Rights
+
+As we do not collect personal data, there are no personal data access, correction, or deletion rights to exercise. However, you can opt out of analytics collection through your device settings.
+
+## Changes to the Privacy Policy
 
 We reserve the right to update this privacy policy. Any changes will be posted on this page.
 
-### Contact
+## Contact
 
 If you have any questions about this privacy policy, please contact us at lomogreater@gmail.com.
 
-Last updated: 20/07/2024
+Last updated: 12/8/2024
