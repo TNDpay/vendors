@@ -1,5 +1,12 @@
 [
   {
+    "name": "The Spot - Singapor",
+    "latitude": 1.2779317574776041, 
+    "longitude": 103.85338551181367,
+    "category":"shop",
+    "webpage":"thespot.com"
+  },
+  {
     "name": "Beer Shop",
     "latitude": 39.46945638253371,
     "longitude": -0.3484773829618307,
