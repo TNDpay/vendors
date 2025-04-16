@@ -1,17 +1,17 @@
 [
   {
     "name": "The Spot - Singapor",
-    "latitude": 1.2779317574776041, 
+    "latitude": 1.2779317574776041,
     "longitude": 103.85338551181367,
-    "category":"shop",
-    "webpage":"thespot.com"
+    "category": "shop",
+    "webpage": "thespot.com"
   },
   {
     "name": "Beer Shop",
     "latitude": 39.46945638253371,
     "longitude": -0.3484773829618307,
-    "category":"shop",
-    "webpage":"example.com"
+    "category": "shop",
+    "webpage": "example.com"
   },
   {
     "name": "Beach Club",
@@ -27,28 +27,31 @@
     "category": "shop",
     "webpage": "example.com"
   },
-  
   {
     "name": "Sakura Sushi Haven",
-    "latitude": 39.46745427541122, 
+    "latitude": 39.46745427541122,
     "longitude": -0.3474569239875077,
     "category": "club",
     "webpage": "example.com"
   },
-  
   {
     "name": "TACO Fiesta Mexican Grill",
-    "latitude": 39.470485607533035, 
+    "latitude": 39.470485607533035,
     "longitude": -0.3290247831931373,
     "category": "club",
     "webpage": "example.com"
   },
-  
   {
     "name": "Mert's Coffe",
-    "latitude": 39.47118130446947, 
+    "latitude": 39.47118130446947,
     "longitude": -0.32511948677337543,
     "category": "club",
     "webpage": "example.com"
   },
+  {
+    "name": "sahil solana hub ",
+    "latitude": 31.006216380942845,
+    "longitude": 74.43822131246577,
+    "operatingHours": "15:24 - 15:24"
+  }
 ]
